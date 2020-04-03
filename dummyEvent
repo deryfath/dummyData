@@ -3,52 +3,62 @@
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
       "name": "Event 1",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.873029, 107.582889"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/23/15/05/landscape-4961094_960_720.jpg",
       "name": "Event 2",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.899088, 107.350803"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/31/15/10/landscape-4988078_960_720.jpg",
       "name": "Event 3",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912592, 107.365822"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/28/17/56/landscape-4978065_960_720.jpg",
       "name": "Event 4",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912592, 107.365900"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/29/21/45/petra-4982348_960_720.jpg",
       "name": "Event 5",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912592, 107.465822"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/29/19/56/landscape-4982074_960_720.jpg",
       "name": "Event 6",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912592, 107.366022"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/21/19/27/sea-4955005_960_720.jpg",
       "name": "Event 7",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912592, 107.765822"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/27/06/56/landscape-4972639_960_720.jpg",
       "name": "Event 8",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912592, 107.365922"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/04/01/12/57/landscape-4991121_960_720.jpg",
       "name": "Event 9",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.913092, 107.365822"
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
+      "image": "https://cdn.pixabay.com/photo/2020/03/15/12/51/mountains-4933524_960_720.jpg",
       "name": "Event 10",
-      "date": "23 April 2020"
+      "date": "23 April 2020",
+      "location": "-6.912580, 107.365822"
     }
   ]
 }

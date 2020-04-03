@@ -4,61 +4,61 @@
       "image": "https://cdn.pixabay.com/photo/2020/03/30/16/26/helsinki-4984737_960_720.jpg",
       "name": "Event 1",
       "date": "23 April 2020",
-      "location": "-6.873029, 107.582889"
+      "location": "-3.198839, 102.111313"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/23/15/05/landscape-4961094_960_720.jpg",
       "name": "Event 2",
       "date": "23 April 2020",
-      "location": "-6.899088, 107.430803"
+      "location": "-0.202416, 103.485536"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/31/15/10/landscape-4988078_960_720.jpg",
       "name": "Event 3",
       "date": "23 April 2020",
-      "location": "-6.912592, 107.365822"
+      "location": "2.957564, 112.049930"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/28/17/56/landscape-4978065_960_720.jpg",
       "name": "Event 4",
       "date": "23 April 2020",
-      "location": "-6.912592, 107.323400"
+      "location": "0.348498, 121.131089"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/29/21/45/petra-4982348_960_720.jpg",
       "name": "Event 5",
       "date": "23 April 2020",
-      "location": "-6.912592, 107.125822"
+      "location": "-2.303560, 119.444754"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/29/19/56/landscape-4982074_960_720.jpg",
       "name": "Event 6",
       "date": "23 April 2020",
-      "location": "-6.912592, 107.906022"
+      "location": "0.046998, 125.739878"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/21/19/27/sea-4955005_960_720.jpg",
       "name": "Event 7",
       "date": "23 April 2020",
-      "location": "-6.912592, 107.505822"
+      "location": "2.413210, 128.263094"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/27/06/56/landscape-4972639_960_720.jpg",
       "name": "Event 8",
       "date": "23 April 2020",
-      "location": "-6.912592, 107.363122"
+      "location": "-4.881933, 123.991832"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/04/01/12/57/landscape-4991121_960_720.jpg",
       "name": "Event 9",
       "date": "23 April 2020",
-      "location": "-6.913092, 107.105822"
+      "location": "-6.350516, 132.847742"
     },
     {
       "image": "https://cdn.pixabay.com/photo/2020/03/15/12/51/mountains-4933524_960_720.jpg",
       "name": "Event 10",
       "date": "23 April 2020",
-      "location": "-6.012580, 107.365822"
+      "location": "-5.554068, 139.125319"
     }
   ]
 }
